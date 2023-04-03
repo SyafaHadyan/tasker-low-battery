@@ -1,0 +1,26 @@
+<TaskerData sr="" dvi="1" tv="6.0.10">
+	<Profile sr="prof6" ve="2">
+		<cdate>1680324448292</cdate>
+		<clp>true</clp>
+		<edate>1680325048825</edate>
+		<flags>8</flags>
+		<id>6</id>
+		<mid0>7</mid0>
+		<nme>Low Battery</nme>
+		<State sr="con0" ve="2">
+			<code>140</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="35"/>
+		</State>
+	</Profile>
+	<Task sr="task7">
+		<cdate>1680324462975</cdate>
+		<edate>1680512409873</edate>
+		<id>7</id>
+		<nme>Battery Saver On</nme>
+		<Action sr="act0" ve="7">
+			<code>175</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+	</Task>
+</TaskerData>
